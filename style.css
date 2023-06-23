@@ -1,0 +1,108 @@
+html * {
+  font-family: "Nunito", sans-serif;
+  font-size: 16px;
+  line-height: 1.625;
+}
+
+h1 {
+  text-align: center;
+  font-size: 40px;
+}
+.job-title {
+  text-align: center;
+  position: relative;
+  bottom: 35px;
+}
+
+#contact-info span {
+  margin-left: 40px;
+  position: relative;
+  bottom: 40px;
+  margin-inline-end: 112px;
+}
+hr.first-line {
+  border-top: 1px solid;
+  margin-left: auto;
+  margin-right: auto;
+  width: 92%;
+  margin-top: -35px;
+}
+h3 {
+  margin-left: 40px;
+}
+.career-summary {
+  margin-left: 45px;
+  margin-right: 40px;
+  text-align: justify;
+  position: relative;
+  bottom: 15px;
+}
+hr.second-line {
+  border-top: 1px solid;
+  margin-left: auto;
+  margin-right: auto;
+  width: 92%;
+  margin-top: -19px;
+}
+h4 {
+  margin-left: 40px;
+  margin-top: -9px;
+}
+.job-duration {
+  margin-left: 800px;
+  margin-top: -70px;
+}
+.Upmynd-experience {
+  margin-left: 40px;
+  margin-right: 40px;
+  text-align: justify;
+}
+.amazon-experience {
+  margin-left: 40px;
+  margin-right: 40px;
+  text-align: justify;
+}
+.skills-list {
+  margin-left: 40px;
+  margin-right: 40px;
+  text-align: justify;
+}
+.degree {
+  margin-left: 40px;
+  margin-right: 40px;
+  text-align: justify;
+}
+.projects-list,
+.Relevant-course {
+  margin-left: 40px;
+  margin-right: 40px;
+  text-align: justify;
+}
+
+hr.third-line {
+  border-top: 1px solid;
+  margin-left: auto;
+  margin-right: auto;
+  width: 92%;
+  margin-top: -19px;
+}
+hr.four-line {
+  border-top: 1px solid;
+  margin-left: auto;
+  margin-right: auto;
+  width: 92%;
+  margin-top: -19px;
+}
+hr.fifth-line {
+  border-top: 1px solid;
+  margin-left: auto;
+  margin-right: auto;
+  width: 92%;
+  margin-top: -19px;
+}
+.ist-project {
+  margin-top: -19px;
+}
+.iind-project {
+  margin-top: -19px;
+}
